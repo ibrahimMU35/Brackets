@@ -1,0 +1,15 @@
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\bin\Debug\net8.0\ConditionV1.exe
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\bin\Debug\net8.0\ConditionV1.deps.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\bin\Debug\net8.0\ConditionV1.runtimeconfig.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\bin\Debug\net8.0\ConditionV1.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\bin\Debug\net8.0\ConditionV1.pdb
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\obj\Debug\net8.0\ConditionV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\obj\Debug\net8.0\ConditionV1.AssemblyInfoInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\obj\Debug\net8.0\ConditionV1.AssemblyInfo.cs
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\obj\Debug\net8.0\ConditionV1.csproj.CoreCompileInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\obj\Debug\net8.0\ConditionV1.sourcelink.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\obj\Debug\net8.0\ConditionV1.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\obj\Debug\net8.0\refint\ConditionV1.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\obj\Debug\net8.0\ConditionV1.pdb
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\obj\Debug\net8.0\ConditionV1.genruntimeconfig.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionV1\obj\Debug\net8.0\ref\ConditionV1.dll
