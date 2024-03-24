@@ -1,0 +1,15 @@
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\obj\Debug\net8.0\ConditionsSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\obj\Debug\net8.0\ConditionsSwitch.AssemblyInfoInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\obj\Debug\net8.0\ConditionsSwitch.AssemblyInfo.cs
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\obj\Debug\net8.0\ConditionsSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\obj\Debug\net8.0\ConditionsSwitch.sourcelink.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\bin\Debug\net8.0\ConditionsSwitch.exe
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\bin\Debug\net8.0\ConditionsSwitch.deps.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\bin\Debug\net8.0\ConditionsSwitch.runtimeconfig.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\bin\Debug\net8.0\ConditionsSwitch.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\bin\Debug\net8.0\ConditionsSwitch.pdb
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\obj\Debug\net8.0\ConditionsSwitch.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\obj\Debug\net8.0\refint\ConditionsSwitch.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\obj\Debug\net8.0\ConditionsSwitch.pdb
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\obj\Debug\net8.0\ConditionsSwitch.genruntimeconfig.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\ConditionsSwitch\obj\Debug\net8.0\ref\ConditionsSwitch.dll
