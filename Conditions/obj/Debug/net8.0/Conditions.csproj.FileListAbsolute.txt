@@ -1,0 +1,15 @@
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\bin\Debug\net8.0\Conditions.exe
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\bin\Debug\net8.0\Conditions.deps.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\bin\Debug\net8.0\Conditions.runtimeconfig.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\bin\Debug\net8.0\Conditions.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\bin\Debug\net8.0\Conditions.pdb
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\obj\Debug\net8.0\Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\obj\Debug\net8.0\Conditions.AssemblyInfoInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\obj\Debug\net8.0\Conditions.AssemblyInfo.cs
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\obj\Debug\net8.0\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\obj\Debug\net8.0\Conditions.sourcelink.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\obj\Debug\net8.0\Conditions.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\obj\Debug\net8.0\refint\Conditions.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\obj\Debug\net8.0\Conditions.pdb
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\obj\Debug\net8.0\Conditions.genruntimeconfig.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\Conditions\obj\Debug\net8.0\ref\Conditions.dll
