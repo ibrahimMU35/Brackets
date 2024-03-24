@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("My Awesome Program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a489d641200e9a6240e738403e137616ea2d14c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daeac0fb02c5a22ada6f093d115f9303a741d664")]
 [assembly: System.Reflection.AssemblyProductAttribute("My Awesome Program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("My Awesome Program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
