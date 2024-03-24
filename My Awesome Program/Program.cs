@@ -16,5 +16,8 @@ Console.ReadLine();
 
 Console.WriteLine("my name is rx-900. im an Ai sent from the future for destroying the world");
 Console.WriteLine("what is your favorite color ");
+Console.ReadLine();
+
+Console.WriteLine("Cool, Could you tell how to learn programming please?");
 
 Console.ReadKey();
