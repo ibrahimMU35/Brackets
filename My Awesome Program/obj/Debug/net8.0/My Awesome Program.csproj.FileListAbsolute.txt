@@ -1,0 +1,15 @@
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\bin\Debug\net8.0\My Awesome Program.exe
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\bin\Debug\net8.0\My Awesome Program.deps.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\bin\Debug\net8.0\My Awesome Program.runtimeconfig.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\bin\Debug\net8.0\My Awesome Program.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\bin\Debug\net8.0\My Awesome Program.pdb
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\obj\Debug\net8.0\My Awesome Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\obj\Debug\net8.0\My Awesome Program.AssemblyInfoInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\obj\Debug\net8.0\My Awesome Program.AssemblyInfo.cs
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\obj\Debug\net8.0\My Awesome Program.csproj.CoreCompileInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\obj\Debug\net8.0\My Awesome Program.sourcelink.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\obj\Debug\net8.0\My Awesome Program.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\obj\Debug\net8.0\refint\My Awesome Program.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\obj\Debug\net8.0\My Awesome Program.pdb
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\obj\Debug\net8.0\My Awesome Program.genruntimeconfig.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\My Awesome Program\obj\Debug\net8.0\ref\My Awesome Program.dll
