@@ -1,0 +1,15 @@
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\obj\Debug\net8.0\username.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\obj\Debug\net8.0\username.AssemblyInfoInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\obj\Debug\net8.0\username.AssemblyInfo.cs
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\obj\Debug\net8.0\username.csproj.CoreCompileInputs.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\obj\Debug\net8.0\username.sourcelink.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\bin\Debug\net8.0\username.exe
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\bin\Debug\net8.0\username.deps.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\bin\Debug\net8.0\username.runtimeconfig.json
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\bin\Debug\net8.0\username.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\bin\Debug\net8.0\username.pdb
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\obj\Debug\net8.0\username.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\obj\Debug\net8.0\refint\username.dll
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\obj\Debug\net8.0\username.pdb
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\obj\Debug\net8.0\username.genruntimeconfig.cache
+C:\Users\ibomy\OneDrive\Desktop\Brackets_repo\Brackets\username\obj\Debug\net8.0\ref\username.dll
