@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Runtime.InteropServices;
+
 string[] movies= {"lord of the rings", "Gladiator", "Upgrate", "Blade runner"};
 
 for (int i=0; i<movies.Length; i++){
@@ -30,6 +32,27 @@ Console.WriteLine(movies2[i]);
 
 }
 
+// lists
+// System Collections .Generic
 
 
+List<string> shoppingList = new List<string>();
+
+
+shoppingList.Add("Dreams");
+shoppingList.Add("travail");
+shoppingList.Add("burger");
+shoppingList.Add("programming languages");
+
+for(int i=0; i<shoppingList.Count(); i++){
+    Console.WriteLine(shoppingList[i]);
+}
+
+shoppingList.Remove("Dreams");
+shoppingList.RemoveAt(0);
+System.Console.WriteLine("-------------------------------- ");
+
+for(int i=0; i<shoppingList.Count(); i++){
+    Console.WriteLine(shoppingList[i]);
+}
 Console.ReadKey();
