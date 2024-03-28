@@ -8,9 +8,12 @@ class Program
     {
         Program prog = new Program();
         prog.MeetAlien();
+        System.Console.WriteLine("enter your sentences...");
+        string sentence = Console.ReadLine().ToString();
+        int numofGaps = sentence.Split(' ').Length-1;
+        System.Console.WriteLine("Number of word in your sentence is "+numofGaps);
         
-
-
+        
 
         //----------------
     int result = Multiply(3,5);
@@ -46,4 +49,7 @@ System.Console.WriteLine("im an alien");
         int result = x * y ;
         return result;
     }
+
+
+
 }
